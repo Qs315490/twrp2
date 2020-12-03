@@ -5,7 +5,7 @@
   "git_email": "1811138747@qq.com",
   "use_own_dt": true,
   "dt_url": "Qs315490/android_device_oppo_r11",
-  "dt_branch": "android-9.0",
+  "dt_branch": "cm14.1",
   "dt_path": "device/oppo/r11",
   "dt_remote": "github",
   "device_code": "oprs",
