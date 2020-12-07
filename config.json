@@ -8,7 +8,7 @@
   "dt_branch": "cm-14.1",
   "dt_path": "device/oppo/r11",
   "dt_remote": "github",
-  "device_code": "oprs",
+  "device_code": "r11",
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
